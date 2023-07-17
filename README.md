@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaahilSingh25
 - 👀 I’m interested in Artificial Intelligence, Web Development, and just learning coding in general! 
 - 🎶 I also have a passion for producing music. I want to learn more about what it takes to code production software and music plugins.
-- 🌱 I’m currently learning Computer Science at the University of Maryland - College Park.
-- 📫 You can reach me at ssingh53@terpmail.umd.edu
+- 🌱 I’m currently majoring in Computer Science at the University of Maryland - College Park.
+- 📫 You can reach me at saahilsingh360@gmail.com
